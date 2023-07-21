@@ -9,7 +9,7 @@ const app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
-    origin: "https://driving-6i7uwt83y-manoj509.vercel.app",
+    origin: "https://driving-pi.vercel.app/api",
     credentials: true
 }))
 app.use(express.static("public"))
