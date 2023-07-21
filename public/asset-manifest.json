@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51e417ef.chunk.css",
+    "main.js": "/static/js/main.0757a0a4.chunk.js",
+    "main.js.map": "/static/js/main.0757a0a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.33288064.js",
+    "runtime-main.js.map": "/static/js/runtime-main.33288064.js.map",
+    "static/js/2.562907d9.chunk.js": "/static/js/2.562907d9.chunk.js",
+    "static/js/2.562907d9.chunk.js.map": "/static/js/2.562907d9.chunk.js.map",
+    "static/js/3.79525da7.chunk.js": "/static/js/3.79525da7.chunk.js",
+    "static/js/3.79525da7.chunk.js.map": "/static/js/3.79525da7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.51e417ef.chunk.css.map": "/static/css/main.51e417ef.chunk.css.map",
+    "static/js/2.562907d9.chunk.js.LICENSE.txt": "/static/js/2.562907d9.chunk.js.LICENSE.txt",
+    "static/media/aboutOne.01acf1be.jpg": "/static/media/aboutOne.01acf1be.jpg",
+    "static/media/style.css": "/static/media/carouselTwo.d98470d9.jpg",
+    "static/media/coursesOne.c02f8ccd.jpg": "/static/media/coursesOne.c02f8ccd.jpg",
+    "static/media/coursesThree.618fac6f.jpg": "/static/media/coursesThree.618fac6f.jpg",
+    "static/media/coursesTwo.c4c4bd58.jpg": "/static/media/coursesTwo.c4c4bd58.jpg",
+    "static/media/imageOne.3c4bec2e.png": "/static/media/imageOne.3c4bec2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33288064.js",
+    "static/js/2.562907d9.chunk.js",
+    "static/css/main.51e417ef.chunk.css",
+    "static/js/main.0757a0a4.chunk.js"
+  ]
+}
